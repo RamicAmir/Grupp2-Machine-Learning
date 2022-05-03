@@ -3,9 +3,11 @@
 ##  Data description
 There are 3 types of input features
 
-* Objective: factual information
-* Examination: results of medical examination
-* Subjective: information given by the patient
+```
+1. Objective: factual information
+2. Examination: results of medical examination1
+3. Subjective: information given by the patient
+```
 
 ## Features:
 ```
