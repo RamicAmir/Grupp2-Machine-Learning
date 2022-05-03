@@ -1,6 +1,4 @@
-# Machine-Learning Group-two
-
-## Cardiovascular disease
+# Cardiovascular disease useing Machine-Learning and Deep-Learning  Group-two 
 
 ##  Data description
 There are 3 types of input features
