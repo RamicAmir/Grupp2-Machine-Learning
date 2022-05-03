@@ -8,7 +8,7 @@ There are 3 types of input features
 * Subjective: information given by the patient
 
 ## Features:
-
+```
 Age | Objective Feature | age | int (days)
 
 Height | Objective Feature | height | int (cm) |
@@ -32,7 +32,7 @@ Physical activity | Subjective Feature | active | binary |
 Presence or absence of cardiovascular disease | Target Variable | cardio | binary |
 
 All of the dataset values were collected at the moment of medical examination.
-
+```
 
 
 ### Systolic blood pressure | Examination Feature | ap_hi | int
