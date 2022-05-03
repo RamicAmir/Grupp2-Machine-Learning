@@ -7,7 +7,7 @@ There are 3 types of input features
 * Examination: results of medical examination
 * Subjective: information given by the patient
 
-> Features:
+## Features:
 
 Age | Objective Feature | age | int (days)
 
@@ -35,10 +35,10 @@ All of the dataset values were collected at the moment of medical examination.
 
 
 
-## Systolic blood pressure | Examination Feature | ap_hi | int
+### Systolic blood pressure | Examination Feature | ap_hi | int
 systolic blood pressure, measures the pressure in your arteries when your heart beats
 
-## Diastolic blood pressure | Examination Feature | ap_lo | int |
+### Diastolic blood pressure | Examination Feature | ap_lo | int |
 The diastolic blood pressure, is the pressure in the arteries when the heart rests between beats.
 This is the time when the heart fills with blood and gets oxygen.
 This is what your diastolic blood pressure number means: Normal: Lower than 80
