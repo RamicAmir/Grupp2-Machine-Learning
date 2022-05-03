@@ -26,9 +26,11 @@ There are 3 types of input features
 7. Cholesterol | Examination Feature | cholesterol | 1: normal, 2: above normal, 3: well above normal |
 
 8. Glucose | Examination Feature | gluc | 1: normal, 2: above normal, 3: well above normal |
+
 9. Smoking | Subjective Feature | smoke | binary |
 
 10. Alcohol intake | Subjective Feature | alco | binary |
+
 11. Physical activity | Subjective Feature | active | binary |
 
 12. Presence or absence of cardiovascular disease | Target Variable | cardio | binary |
