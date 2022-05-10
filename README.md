@@ -50,4 +50,10 @@ This is the time when the heart fills with blood and gets oxygen.
 This is what your diastolic blood pressure number means: Normal: Lower than 80
 ```
 
+## Heart Disease Flowchart
 
+```
+Heart Disease Flowchart
+```
+
+![Heart Diease Flowchart](Flowchart/Heart-disease.png)
