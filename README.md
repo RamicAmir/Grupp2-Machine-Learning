@@ -1,17 +1,17 @@
-# Cardiovascular disease useing Machine-Learning and Deep-Learning  Group-two 
+# The factors of Cardiovascular disease
 
-##  Data description
-There are 3 types of input features
+## There are 3 types of input features
 
-```
+``` Data description
 1. Objective: factual information
 2. Examination: results of medical examination1
 3. Subjective: information given by the patient
 ```
 
-## Features:
-```
-1. Age | Objective Feature | age | int (days)
+## Features
+
+```Features
+1. Age | Objective Feature | age | int (days) |
 
 2. Height | Objective Feature | height | int (cm) |
 
@@ -23,9 +23,15 @@ There are 3 types of input features
 
 6. Diastolic blood pressure | Examination Feature | ap_lo | int |
 
-7. Cholesterol | Examination Feature | cholesterol | 1: normal, 2: above normal, 3: well above normal |
+7. Cholesterol | Examination Feature | cholesterol |
+    1: normal, 
+    2: above normal, 
+    3: well above normal 
 
-8. Glucose | Examination Feature | gluc | 1: normal, 2: above normal, 3: well above normal |
+8. Glucose | Examination Feature | gluc | 
+    1: normal
+    2: above normal
+    3: well above normal
 
 9. Smoking | Subjective Feature | smoke | binary |
 
@@ -38,22 +44,25 @@ There are 3 types of input features
 All of the dataset values were collected at the moment of medical examination.
 ```
 
+### Blood pressure is measured using two numbers
 
-### Systolic blood pressure | Examination Feature | ap_hi | int
+``` Blood pressure
+The first number, called systolic blood pressure, measures the pressure in your arteries when your heart beats, 
+Normnal: Systolic blood pressure is 12o mmHg(millimetre of mercury) or below  
+Systolic blood pressure | Examination Feature | ap_hi | int |
 ```
-systolic blood pressure, measures the pressure in your arteries when your heart beats
-```
+
 ### Diastolic blood pressure | Examination Feature | ap_lo | int |
-```
-The diastolic blood pressure, is the pressure in the arteries when the heart rests between beats.
-This is the time when the heart fills with blood and gets oxygen.
-This is what your diastolic blood pressure number means: Normal: Lower than 80
+
+```Diastolic
+The second number, called diastolic blood pressure, measures the pressure in your arteries when your heart rests between beats. This is the time when the heart fills with blood and gets oxygen. This is what your diastolic blood pressure number means:
+
+Normal: Diastolic blood pressure 80 mmHg(millimetre of mercury) or below 
 ```
 
-## Heart Disease Flowchart
+## Cardiovascular disease Flowchart
 
-```
-Heart Disease Flowchart
+```Heart Disease Flowchart
 ```
 
-![Heart Diease Flowchart](Flowchart/Heart-disease.png)
+![Heart Diease Flowchart](Flowchart/cardiovascular.png)
