@@ -5,7 +5,7 @@ breast_cancer.ipynb: Jupyter Notebook containing project code
 Pickles models
 Photos from the models for presentation
 
-##Technical specifications
+## Technical specifications
 The dependencies for the notebook are: Python 3.7.3, Matplotlib, Numpy, Pandas, Seaborn, Itertools, Pickle, Collections, Imbalanced-Learn, Scikit-Learn, XGBoost, LightGBM, Adaboost, and CatBoost
 Because some of the models would have taken very long to run on my local machine, using Google Colab,  a GPU runtime will help to run. 
  In addition, the pickled models can be pretty large (>300MB), so if memory is an issue, you may want to skip over those cells.
