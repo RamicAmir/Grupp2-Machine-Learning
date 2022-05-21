@@ -8,6 +8,20 @@ Here's what you'll find inside:
 * pickles models
 * photos from the models, saved for presentation
 
+## Models include in the study
+
+* Support Vector Machines
+* KNN
+* Logistic Regression
+* Random Forest
+* Decision Tree
+* LightGBM
+* GBM
+* AdaBoost 
+* XGBoost
+* CatBoost
+* and Naive Bayes
+
 ## Technical specifications
 The dependencies for the notebook are: Python 3.9, Matplotlib, Numpy, Pandas, Seaborn, Itertools, Pickle, Collections, Imbalanced-Learn, Scikit-Learn, XGBoost, LightGBM, Adaboost, and CatBoost
 Because some models, i.e CatBoost, would have taken very long to run on my local machine, using Google Colab,  a GPU runtime will help to run. 
