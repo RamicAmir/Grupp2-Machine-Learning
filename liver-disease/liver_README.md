@@ -7,10 +7,4 @@
 2. Examination: results of medical examination1
 3. Subjective: information given by the patient
 4.
-```
-
-## Features
-
-```Features
-
-```
+``
