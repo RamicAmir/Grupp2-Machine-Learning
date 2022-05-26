@@ -62,8 +62,4 @@ Normal: Diastolic blood pressure 80 mmHg(millimetre of mercury) or below
 
 ## Cardiovascular disease Flowchart
 
-```Heart Disease Flowchart
-```
-
-
 ![Heart Diease Flowchart](/cardiovascular/flowchart.png)
