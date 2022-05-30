@@ -1,6 +1,6 @@
 # Machine-Learning Group-two: Diabetes-prediction
 
-##Diabetes-prediction using Supervised-Machine Learning Method
+##Diabetes-prediction using Supervised-Machine Learning Method.
 
 
 #### Introduction:
